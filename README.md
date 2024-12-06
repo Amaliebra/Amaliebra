@@ -8,6 +8,6 @@
 Twinmotion, Adobe Photoshop, Adobe Premiere Pro, Figma, Visual Studio, Visual Studio Code, DDScad
 <br>
 <!--START_SECTION:activity-->
-<img height="30%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaliebra&layout=compact&hide_title=true&title_color=be95be&hide_border=true&theme=transparent&text_color=ffffff&icon_color=ffffff&bg_color=&langs_count=6&hide=&exclude_repo=">
+1. 🎉 Merged PR [#8](https://github.com/Amaliebra/07.10.2024-CRUD-project/pull/8) in [Amaliebra/07.10.2024-CRUD-project](https://github.com/Amaliebra/07.10.2024-CRUD-project)
 <!--END_SECTION:activity-->
 </p>
