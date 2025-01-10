@@ -6,7 +6,7 @@ async function fetchDogPictures() {
         const response = await fetch('https://dog.ceo/api/breeds/image/random');
         const data = await response.json();
         const imageUrl = data.message;
-        const markdownImage = `<img src="${imageUrl}" alt="dog" width="20"/>`;
+        const markdownImage = `<img src="${imageUrl}" alt="dog" width="40"/>`;
         const readme = fs.readFileSync('README.md', 'utf8');
 
         console.log('Fetched Image URL:', imageUrl);
