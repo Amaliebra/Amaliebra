@@ -13,5 +13,5 @@ Twinmotion, Adobe Photoshop, Adobe Premiere Pro, Adobe Illustrator, Figma, Visua
 <img height="30%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaliebra&layout=compact&hide_title=true&title_color=be95be&hide_border=true&theme=transparent&text_color=ffffff&icon_color=ffffff&bg_color=&langs_count=6&hide=&exclude_repo=">
   
 <!--END_SECTION:activity-->
-<img src="placeholderForRealPictures" alt="dog" width="20">
+<img src="https://images.dog.ceo/breeds/terrier-silky/n02097658_6202.jpg" alt="dog" width="20"/>
 </p>

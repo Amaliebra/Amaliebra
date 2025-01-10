@@ -1,5 +1,5 @@
-const fetch = require('node-fetch');
-const fs = require('fs');
+import fetch from 'node-fetch';
+import fs from 'fs';
 
 async function fetchDogPictures() {
     try {
@@ -9,6 +9,8 @@ async function fetchDogPictures() {
         const markdownImage = `<img src="${imageUrl}" alt="dog" width="20"/>`;
         const readme = fs.readFileSync('README.md', 'utf8');
 
+        console.log('Fetched Image URL:', imageUrl);
+
         const updatedReadme = readme.replace(/<img\s+src=".*?"\s+alt="dog"\s+width="20"\s*\/?>/i, markdownImage);
 
         fs.writeFileSync('README.md', updatedReadme);
@@ -16,6 +18,6 @@ async function fetchDogPictures() {
     } catch(error) {
         console.error('Error fetching dog image :(', error);
     }
+    
 }
-
 fetchDogPictures()
