@@ -1,4 +1,4 @@
-<p align=center font-size=5px>
+<p align=center text-align: center font-size=5px>
 <img src="https://img.shields.io/badge/dotnet-be95be?style=flat&logo=dotnet&logoColor=ffffff&logoSize=auto">
 <img src="https://img.shields.io/badge/blazor-be95be?style=flat&logo=blazor&logoColor=ffffff&logoSize=auto">
 <img src="https://img.shields.io/badge/html-be95be?style=flat&logo=html5&logoColor=ffffff&logoSize=auto">
@@ -13,5 +13,7 @@ Twinmotion, Adobe Photoshop, Adobe Premiere Pro, Adobe Illustrator, Figma, Visua
 <img height="30%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaliebra&layout=compact&hide_title=true&title_color=be95be&hide_border=true&theme=transparent&text_color=ffffff&icon_color=ffffff&bg_color=&langs_count=6&hide=&exclude_repo=">
   
 <!--END_SECTION:activity-->
-<img src="https://images.dog.ceo/breeds/boxer/n02108089_5614.jpg" alt="dog" width="40"/>
+<div align=center>
+  <img src="https://images.dog.ceo/breeds/boxer/n02108089_5614.jpg" alt="dog" height="10%" width="10%"/>
+<div/>
 </p>
