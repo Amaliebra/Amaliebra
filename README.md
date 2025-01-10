@@ -13,4 +13,5 @@ Twinmotion, Adobe Photoshop, Adobe Premiere Pro, Adobe Illustrator, Figma, Visua
 <img height="30%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaliebra&layout=compact&hide_title=true&title_color=be95be&hide_border=true&theme=transparent&text_color=ffffff&icon_color=ffffff&bg_color=&langs_count=6&hide=&exclude_repo=">
   
 <!--END_SECTION:activity-->
+<img>
 </p>
