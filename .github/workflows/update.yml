@@ -3,7 +3,8 @@ name: Update README
 on:
   schedule:
     # Runs at 12:00 UTC every day
-    - cron: '0 12 * * *'
+    # Runs every 5 min
+    - cron: '*/5 * * * *'
 
   workflow_dispatch:
 permissions:
