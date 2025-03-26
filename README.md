@@ -14,6 +14,6 @@ Twinmotion, Adobe Photoshop, Adobe Premiere Pro, Adobe Illustrator, Figma, Visua
   
 <!--END_SECTION:activity-->
 <div align=center>
-  <img src="https://images.dog.ceo/breeds/saluki/n02091831_13486.jpg" alt="dog" height="10%" width="10%"/>
+  <img src="https://images.dog.ceo/breeds/dachshund/gofetchbot_Jubi_20230306T015558.jpg" alt="dog" height="10%" width="10%"/>
 <div/>
 </p>
