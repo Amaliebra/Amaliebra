@@ -15,6 +15,6 @@ Twinmotion, Adobe Photoshop, Adobe Premiere Pro, Adobe Illustrator, Figma, Visua
   
 <!--END_SECTION:activity-->
 <div align=center>
-  <img src="https://images.dog.ceo/breeds/hound-basset/n02088238_9787.jpg" alt="dog" height="10%" width="10%"/>
+  <img src="App\Util\BreedUtil::collapseArrayWithString(): Argument #1 ($object) must be of type object, string given, called in /srv/data/web/vhosts/dog.ceo/htdocs/api/src/Util/BreedUtil.php on line 442 with code: 0" alt="dog" height="10%" width="10%"/>
 <div/>
 </p>
