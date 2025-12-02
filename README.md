@@ -15,6 +15,6 @@ Twinmotion, Adobe Photoshop, Adobe Premiere Pro, Adobe Illustrator, Figma, Visua
   
 <!--END_SECTION:activity-->
 <div align=center>
-  <img src="https://images.dog.ceo/breeds/pointer-german/n02100236_308.jpg" alt="dog" height="10%" width="10%"/>
+  <img src="https://images.dog.ceo/breeds/terrier-andalusian/El-Bodeguero-Andaluz-caracteristicas-de-un-perro-ratonero-cachorro_9f98dd41-7aa4-4bd7-9554-eb616aafa4a0.jpg" alt="dog" height="10%" width="10%"/>
 <div/>
 </p>
